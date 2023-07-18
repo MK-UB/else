@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "rot_13.C": "cpp",
+        "__bit_reference": "c",
+        "algorithm": "c",
+        "bitset": "c",
+        "chrono": "c",
+        "map": "c",
+        "unordered_map": "c",
+        "stack": "c"
+    }
+}
